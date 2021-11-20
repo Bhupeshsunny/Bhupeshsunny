@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhupeshsunny
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on to work and improve myself
+- 💞️ I’m looking to collaborate  to work and improve myself
 - 📫 How to reach me? instagram:- @bhupesh_sunny_
 
 <!---
